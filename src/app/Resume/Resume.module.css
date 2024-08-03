@@ -1,0 +1,196 @@
+
+.sec{
+    width: 100%;
+    height: auto;
+    background-color: #f8f9fa;
+    padding-bottom: 50px;
+}
+.Resume{
+    text-align: center;
+    background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: calc(1.425rem + 2.1vw);
+    font-weight: 300;
+    line-height: 1.2;
+    font-weight: bolder !important;
+ 
+}
+.container1{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 90px;
+}
+.handel{
+    font-weight: bolder !important;
+    font-size: calc(1.325rem + 0.9vw);
+    color: #1d4ed8 ;
+}
+.iconDonlowd{
+   margin-right: 10px;
+   color: white;
+}
+.container2{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+.main{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.incontainer1{
+   
+    
+    width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box{
+    background-color: #f8f9fa;
+    border-radius: 15px;
+    height: auto;
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.Description{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.time{
+    color: #1d4ed8;
+    font-weight: bolder !important;
+    margin-bottom: 0.5rem !important;
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.title{
+    font-weight: bolder;
+    font-size: 0.875em;
+    box-sizing: border-box;
+    margin-left: 20px;
+   
+}
+.nameC{
+    --bs-text-opacity: 1;
+    color: #6c757d !important;
+    font-size: 0.875em;
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.Education{
+    color: #e21e80;
+    font-weight: bolder;
+    margin-bottom: 1.5rem !important;
+    font-size: calc(1.325rem + 0.9vw);
+}
+.container3{
+    width: 60%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.time2{
+    color: #e21e80;
+    font-weight: bolder !important;
+    margin-bottom: 0.5rem !important;
+    box-sizing: border-box;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+@media only screen and (min-width:0px) and (max-width:500px) {
+
+    .main{
+        display: block !important;
+    }
+    .container2{
+        width: 90% !important;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+        background-color: white;
+        border-radius: 15px;
+        margin-top: 50px;
+    }
+    .box{
+        background-color: #f8f9fa;
+        border-radius: 15px;
+        height: auto;
+        width: 100%;
+        margin-left: 0px !important;
+       padding-top: 20px !important;
+       padding-bottom: 20px !important;
+    }
+    .time2{
+        color: #e21e80;
+        font-weight: bolder !important;
+        margin-bottom: 0.5rem !important;
+        box-sizing: border-box;
+        margin-top: 20px;
+    }
+    .time{
+        color: #1d4ed8;
+        font-weight: bolder !important;
+        margin-bottom: 0.5rem !important;
+        box-sizing: border-box;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .Description{
+        margin-top: 60px;
+        margin-bottom: 60px;
+        margin-left: 25px !important;
+        margin-right: 30px;
+    }
+    .container1{
+        width: 80%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 90px;
+    }
+    .container3{
+        width: 90%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .Description{
+        margin-top: 0px !important;
+        margin-bottom: 60px;
+        margin-left: 30px;
+        margin-right: 30px;
+        padding-bottom: 30px !important;
+    }
+    .nameC{
+        --bs-text-opacity: 1;
+        color: #6c757d !important;
+        font-size: 0.875em;
+        box-sizing: border-box;
+        margin-left: 20px;
+        margin-bottom: 0px !important;
+    }
+ 
+}

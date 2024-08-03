@@ -1,0 +1,113 @@
+{
+    "Porfile":[
+        {
+            "id":1,
+            "image":"https://startbootstrap.github.io/startbootstrap-personal/assets/profile.png"
+        }
+    ],
+    "cv":[
+        {
+            "id":1,
+            "title":"My name is Start Bootstrap and I help brands grow.",
+            "Description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit dolorum itaque qui unde quisquam consequatur autem. Eveniet quasi nobis aliquid cumque officiis sed rem iure ipsa! Praesentium ratione atque dolorem?"
+        }
+    ],
+    "Experience":[
+        {
+            "id":1,
+            "time":"2019 - Present",
+            "title":"Web Developer",
+            "nameC":"Stark IndustriesLos Angeles, CA",
+            "Description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+        },
+        {
+            "id":2,
+            "time":"2017 - 2019",
+            "title":"SEM Specialist",
+            "nameC":"Wayne EnterprisesGotham City, NY",
+            "Description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+        }
+    ],
+    "Education":[
+        {
+            "id":1,
+            "time":"2015 - 2017",
+            "title":"Barnett College",
+            "nameC":"Fairfield, NYMaster's Web Development",
+            "Description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+        },
+        {
+            "id":2,
+            "time":"2011 - 2015",
+            "title":"ULA",
+            "nameC":"Los Angeles, CAUndergraduate Computer Science",
+            "Description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus laudantium, voluptatem quis repellendus eaque sit animi illo ipsam amet officiis corporis sed aliquam non voluptate corrupti excepturi maxime porro fuga."
+        }
+    ],
+    "Projects":[
+        {
+            "id":1,
+            "title":"Project Name 1",
+            "Description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!",
+            "image":"https://dummyimage.com/300x400/343a40/6c757d"
+        },
+        {
+            "id":2,
+            "title":"Project Name 2",
+            "Description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius at enim eum illum aperiam placeat esse? Mollitia omnis minima saepe recusandae libero, iste ad asperiores! Explicabo commodi quo itaque! Ipsam!",
+            "image":"https://dummyimage.com/300x400/343a40/6c757d"
+        }
+    ],
+    "Skills":[
+        {
+            "id":1,
+            "skill":"SEO/SEM Marketing"
+        },
+        {
+            "id":2,
+            "skill":"Statistical Analysis"
+        },
+        {
+            "id":3,
+            "skill":"Web Development"
+        },
+        {
+            "id":4,
+            "skill":"Network Security"
+        },
+        {
+            "id":5,
+            "skill":"Adobe Software Suite"
+        },
+        {
+            "id":6,
+            "skill":"User Interface Design"
+        }
+    ],
+    "Languages":[
+        {
+            "id":1,
+            "Languages":"HTML"
+        },
+        {
+            "id":2,
+            "Languages":"CSS"
+        },
+        {
+            "id":3,
+            "Languages":"JavaScript"
+        },
+        {
+            "id":4,
+            "Languages":"Python"
+        },
+        {
+            "id":5,
+            "Languages":"Ruby"
+        },
+        {
+            "id":6,
+            "Languages":"Node.js"
+        }
+    ]
+}
